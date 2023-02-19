@@ -1,0 +1,21 @@
+    1  git --version
+    2  python --version
+    3  conda --version 
+    4  code  --version 
+    5  explorer .
+    6  jupyter notebook
+    7  pwd
+    8  ls
+    9  cd desktop
+   10  cd onedrive
+   11  ls 
+   12  cd desktop
+   13  mkdir repos
+   14  ls 
+   15  cd repos
+   16  git clone https://github.com/IndyJohal/HelloGithub.git
+   17  ls
+   18  cd HelloGithub/
+   19  code .
+   20  history
+   21  history > comand.txt
